@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AppsFlyerSDK/appsflyer-capacitor-plugin/main/assets/AFLogo_primary.png"  width="600" > 
+<!-- <img src="https://raw.githubusercontent.com/AppsFlyerSDK/appsflyer-capacitor-plugin/main/assets/AFLogo_primary.png"  width="600" > 
 
 # AppsFlyer Capacitor plugin for Android and iOS.
 
@@ -29,11 +29,3 @@ If you are still interested in using Capacitor 3, please follow the instructions
 ✏️✏️ Migration guided if needed✏️✏️ 
 -->
 
- ##  📖 Guides
-- [Adding the SDK to your project](/docs/Installation.md)
-- [Initializing the SDK](/docs/BasicIntegration.md)
-- [In-app Events](/docs/InAppEvents.md)
-- [Deep Linking](/docs/DeepLink.md)
-- [Advanced API](/docs/AdvancedAPI.md)
-- [Testing the integration](/docs/Testing.md)
-- [API](/docs/API.md)
